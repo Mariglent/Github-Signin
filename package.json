@@ -1,0 +1,26 @@
+{
+  "name": "github-signin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariglent/Github-Signin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mariglent/Github-Signin/issues"
+  },
+  "homepage": "https://github.com/Mariglent/Github-Signin#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.0"
+  }
+}
